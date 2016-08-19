@@ -1,0 +1,26 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "sample setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharni/ReactSetup.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "ezhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tharni/ReactSetup/issues"
+  },
+  "homepage": "https://github.com/tharni/ReactSetup#readme",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0"
+  }
+}
