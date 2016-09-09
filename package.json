@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/tharni/ReactSetup#readme",
   "dependencies": {
-    "react": "^15.3.0",
-    "react-dom": "^15.3.0"
+    "react": "^15.3.1",
+    "react-dom": "^15.3.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2"
   }
 }
